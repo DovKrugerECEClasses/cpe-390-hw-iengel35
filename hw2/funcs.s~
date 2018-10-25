@@ -1,0 +1,3 @@
+	.globl _Z5counti
+_Z5counti:	
+	
